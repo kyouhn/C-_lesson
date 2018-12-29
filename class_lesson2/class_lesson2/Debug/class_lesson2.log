@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\c++\class_lesson2\class_lesson2\source.cpp(26): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+c:\c++\class_lesson2\class_lesson2\source.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' の宣言を確認してください
+  class_lesson2.vcxproj -> C:\C++\class_lesson2\class_lesson2\Debug\class_lesson2.exe
+  class_lesson2.vcxproj -> C:\C++\class_lesson2\class_lesson2\Debug\class_lesson2.pdb (Full PDB)
